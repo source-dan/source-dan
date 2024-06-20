@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
-<h3 align="center">A passionate developer from Germany</h3>
+<h3 align="center">A Passionate Software Development Student from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=source-dan&label=Profile%20views&color=0e75b6&style=flat" alt="source-dan" /> </p>
 
