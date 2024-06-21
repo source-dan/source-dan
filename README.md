@@ -1,13 +1,9 @@
 <h2 align="center">Hi 👋! My name is Dan and I'm a Passionate Software Development Student, from Germany</h2>
 
-
-<div class="center">
-    <a href="https://source-dan.github.io" class="button">Website</a>
-</div>
-
 ###
 
 <div align="center">
+    <a href="https://source-dan.github.io" class="button">Website</a>
   <img height="100" src="https://avatars.githubusercontent.com/u/173400528?v=4"  />
 </div>
 
