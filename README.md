@@ -3,7 +3,6 @@
 ###
 
 <div align="center">
-    <a href="https://source-dan.github.io" class="button">Website</a>
   <img height="100" src="https://avatars.githubusercontent.com/u/173400528?v=4"  />
 </div>
 
@@ -64,6 +63,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
+    <a href="https://source-dan.github.io" class="button">Website</a>
 </div>
 
 ###
