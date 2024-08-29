@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Dan and I'm a Passionate Software Development Student, from Germany</h2>
+<h2 align="center">Hi 👋! My name is Dan and I'm a Passionate Developer</h2>
 
 ###
 
